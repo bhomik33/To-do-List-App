@@ -1,0 +1,11 @@
+version: "Apple Swift version 5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)"
+options: "d2de83b40e803a9f0cfa6c2dae0cd688"
+build_time: [1646369982, 120178000]
+inputs:
+  "/Users/bhomikkinger/Desktop/TodoList/TodoList/Models/ItemModel.swift": [1646364642, 358548437]
+  "/Users/bhomikkinger/Desktop/TodoList/TodoList/Views/AddView.swift": [1646369506, 552012380]
+  "/Users/bhomikkinger/Desktop/TodoList/TodoList/ViewModels/ListViewModel.swift": [1646369021, 220982522]
+  "/Users/bhomikkinger/Desktop/TodoList/TodoList/TodoListApp.swift": [1646369684, 555101907]
+  "/Users/bhomikkinger/Desktop/TodoList/TodoList/Views/ListView.swift": [1646368547, 319150961]
+  "/Users/bhomikkinger/Desktop/TodoList/TodoList/Views/ListRowView.swift": [1646304667, 883153660]
+  "/Users/bhomikkinger/Desktop/TodoList/TodoList/Views/NoItemsView.swift": [1646369506, 537890016]

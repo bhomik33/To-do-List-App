@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>7C224F10-5118-4C88-8DBA-1106FDC10E4C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<key>fileName</key>
+			<string>7C224F10-5118-4C88-8DBA-1106FDC10E4C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>TodoList-hklvuistskgfvucainjnrzpljbfz</string>
+			<key>timeStartedRecording</key>
+			<real>668134481.26495695</real>
+			<key>timeStoppedRecording</key>
+			<real>668134482.67439198</real>
+			<key>title</key>
+			<string>Build target TodoList</string>
+			<key>uniqueIdentifier</key>
+			<string>7C224F10-5118-4C88-8DBA-1106FDC10E4C</string>
+		</dict>
+	</dict>
+	<key>preserveOldLogs</key>
+	<true/>
+</dict>
+</plist>
