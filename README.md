@@ -1,5 +1,5 @@
 # To-do-List-App
-Welcome to To do List app! I built this iOS app to learning Apple's new Swift UI, a programming framework for building user interfaces. 
+Welcome to To do List app! I built this iOS app to learn Apple's Swift UI, a brand new framework for building user interfaces. 
 I made this app by following an amazing tutorial on You Tube by Swiftful Thinking (https://youtu.be/EPdivac0kwE)
 
 Screenshots - 
