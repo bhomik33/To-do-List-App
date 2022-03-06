@@ -1,9 +1,3 @@
-//
-//  ItemModel.swift
-//  TodoList
-//
-//  Created by bhomik kinger on 3/3/22.
-//
 
 import Foundation
 
